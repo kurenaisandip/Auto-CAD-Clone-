@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\RiderProjects\\Auto-Cad-Clone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEC401D-5CFE-4DBF-8AA1-4C1BAB3E1927}|Auto-Cad-Clone\\Auto-Cad-Clone.csproj|c:\\users\\acer\\riderprojects\\auto-cad-clone\\auto-cad-clone\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBEC401D-5CFE-4DBF-8AA1-4C1BAB3E1927}|Auto-Cad-Clone\\Auto-Cad-Clone.csproj|solutionrelative:auto-cad-clone\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 304,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\RiderProjects\\Auto-Cad-Clone\\Auto-Cad-Clone\\Form1.cs",
+              "RelativeDocumentMoniker": "Auto-Cad-Clone\\Form1.cs",
+              "ToolTip": "C:\\Users\\ACER\\RiderProjects\\Auto-Cad-Clone\\Auto-Cad-Clone\\Form1.cs [Design]*",
+              "RelativeToolTip": "Auto-Cad-Clone\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:09:50.183Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\ACER\RiderProjects\Auto-Cad-Clone\Auto-Cad-Clone\bin\Debug\netcoreapp3.1\Auto-Cad-Clone.exe
+C:\Users\ACER\RiderProjects\Auto-Cad-Clone\Auto-Cad-Clone\bin\Debug\netcoreapp3.1\Auto-Cad-Clone.deps.json
+C:\Users\ACER\RiderProjects\Auto-Cad-Clone\Auto-Cad-Clone\bin\Debug\netcoreapp3.1\Auto-Cad-Clone.runtimeconfig.json
+C:\Users\ACER\RiderProjects\Auto-Cad-Clone\Auto-Cad-Clone\bin\Debug\netcoreapp3.1\Auto-Cad-Clone.runtimeconfig.dev.json
+C:\Users\ACER\RiderProjects\Auto-Cad-Clone\Auto-Cad-Clone\bin\Debug\netcoreapp3.1\Auto-Cad-Clone.dll
+C:\Users\ACER\RiderProjects\Auto-Cad-Clone\Auto-Cad-Clone\bin\Debug\netcoreapp3.1\Auto-Cad-Clone.pdb
+C:\Users\ACER\RiderProjects\Auto-Cad-Clone\Auto-Cad-Clone\obj\Debug\netcoreapp3.1\Auto-Cad-Clone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\RiderProjects\Auto-Cad-Clone\Auto-Cad-Clone\obj\Debug\netcoreapp3.1\Auto-Cad-Clone.AssemblyInfoInputs.cache
+C:\Users\ACER\RiderProjects\Auto-Cad-Clone\Auto-Cad-Clone\obj\Debug\netcoreapp3.1\Auto-Cad-Clone.AssemblyInfo.cs
+C:\Users\ACER\RiderProjects\Auto-Cad-Clone\Auto-Cad-Clone\obj\Debug\netcoreapp3.1\Auto-Cad-Clone.csproj.CoreCompileInputs.cache
+C:\Users\ACER\RiderProjects\Auto-Cad-Clone\Auto-Cad-Clone\obj\Debug\netcoreapp3.1\Auto-Cad-Clone.dll
+C:\Users\ACER\RiderProjects\Auto-Cad-Clone\Auto-Cad-Clone\obj\Debug\netcoreapp3.1\Auto-Cad-Clone.pdb
+C:\Users\ACER\RiderProjects\Auto-Cad-Clone\Auto-Cad-Clone\obj\Debug\netcoreapp3.1\Auto-Cad-Clone.genruntimeconfig.cache
