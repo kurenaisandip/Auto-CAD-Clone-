@@ -2,7 +2,9 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "C:\\Users\\ACER\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\ACER\\.nuget\\packages"
+      "C:\\Users\\ACER\\.nuget\\packages",
+      "D:\\Applications\\Dev-express\\Offline Packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ]
   }
 }
