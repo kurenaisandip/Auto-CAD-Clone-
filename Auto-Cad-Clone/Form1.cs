@@ -95,14 +95,14 @@ namespace Auto_Cad_Clone
         //}
         private async void InitializeSignalR()
         {
+
             _hubConnection = new HubConnectionBuilder()
-                .WithUrl("http://localhost:5221/notifications")
+                .WithUrl("http://localhost:5221/notifications") 
                 .WithAutomaticReconnect()
                 .Build();
 
             _hubConnection.On<string>("ReceiveNotification", (message) =>
             {
-                Console.WriteLine($"Received message: {message}"); // Log to console
                 this.Invoke((MethodInvoker)delegate
                 {
                     textBox1.AppendText($"{message}{Environment.NewLine}");
@@ -133,13 +133,8 @@ namespace Auto_Cad_Clone
                 await _hubConnection.StartAsync();
                 MessageBox.Show("Connected to SignalR Hub!");
 
-                // Log the connection state
-                Console.WriteLine($"Connection state: {_hubConnection.State}");
-
-                // Register the user ID with the server
-                string userId = "desktop"; // Replace this with a unique user ID
-                await _hubConnection.InvokeAsync("RegisterUserId", userId);
-                MessageBox.Show($"User ID {userId} registered!");
+                await _hubConnection.InvokeAsync("RegisterClient", "desktop");
+                MessageBox.Show("Registered as desktop client!");
             }
             catch (Exception ex)
             {
@@ -147,6 +142,11 @@ namespace Auto_Cad_Clone
             }
         }
 
+        private void MainForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            // Stop the connection when the form is closing
+            _hubConnection?.StopAsync();
+        }
 
         //private async void button1_Click(object sender, EventArgs e)
         //{

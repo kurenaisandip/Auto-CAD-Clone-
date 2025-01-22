@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Auto-Cad-Clone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3773f87c67f426ab669980ba45ea34e49112d2dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74cd7c2077de869a86066d51f740d68a9c48e4b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Auto-Cad-Clone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Auto-Cad-Clone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
